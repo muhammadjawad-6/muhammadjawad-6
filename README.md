@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Automating+workflows+with+AI;Building+with+Make.com+%26+Zapier;CRM+%7C+Email+Marketing+%7C+Lead+Gen" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadjawad-6&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jawad-s)
 
 </div>
@@ -47,12 +45,23 @@ I'm an **AI Automation Specialist at WebXmeta** based in Bahawalpur, Pakistan. I
 ![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-004CFF?style=for-the-badge&logo=activecampaign&logoColor=white)
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-000000?style=for-the-badge&logo=klaviyo&logoColor=white)
 
-**E-Commerce & Data**
+**E-Commerce**
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![eBay](https://img.shields.io/badge/eBay-E53238?style=for-the-badge&logo=ebay&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Etsy](https://img.shields.io/badge/Etsy-F1641E?style=for-the-badge&logo=etsy&logoColor=white)
+
+**Lead Generation**
+
+![Apollo](https://img.shields.io/badge/Apollo.io-FFD600?style=for-the-badge&logoColor=black)
+![Sales Navigator](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Seamless.ai](https://img.shields.io/badge/Seamless.ai-00B386?style=for-the-badge)
+
+**Data Entry**
+
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
@@ -63,9 +72,9 @@ I'm an **AI Automation Specialist at WebXmeta** based in Bahawalpur, Pakistan. I
 | 🤖 **AI Automation** | Make.com and Zapier workflows that connect apps and remove repetitive tasks |
 | 📊 **CRM Management** | Pipedrive setup, pipelines, automation, reporting and integrations |
 | 📧 **Email Marketing** | Segmented campaigns, A/B testing and performance optimization |
-| 🎯 **Lead Generation** | Targeted outreach and qualified B2B/B2C prospect pipelines |
-| 🛒 **E-Commerce Support** | Shopify and eBay product listings and store operations |
-| 🗂️ **Data Management** | Accurate data entry and large datasets in Excel and Google Sheets |
+| 🛒 **E-Commerce** | Product listings and store operations on Shopify, eBay and Etsy |
+| 🎯 **Lead Generation** | Targeted B2B/B2C prospecting with Apollo, Sales Navigator and Seamless.ai |
+| 🗂️ **Data Entry** | Accurate data entry and large datasets in Google Sheets, Excel and Slack |
 
 ---
 
