@@ -2,9 +2,9 @@
 
 # Hi, I'm Muhammad Jawad 👋
 
-### Project Manager & Team Lead | AI Automation Specialist
+### AI Automation Specialist | CRM & Email Marketing
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Automating+workflows+with+AI;Building+with+Zapier+%26+Make.com;Leading+teams+%26+delivering+results;CRM+%7C+Email+Marketing+%7C+Lead+Gen" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Automating+workflows+with+AI;Building+with+Make.com+%26+Zapier;CRM+%7C+Email+Marketing+%7C+Lead+Gen" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammadjawad-6&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -16,10 +16,9 @@
 
 ## 🚀 About Me
 
-I'm a **Project Manager & Team Lead at WebXmeta** based in Bahawalpur, Pakistan. I combine leadership with automation, using AI and no-code tools to remove manual work, grow businesses and improve customer engagement.
+I'm an **AI Automation Specialist at WebXmeta** based in Bahawalpur, Pakistan. I combine marketing, CRM and automation, using AI and no-code tools to remove manual work, grow businesses and improve customer engagement.
 
-- 🤖 Building AI-powered automations that save hours every week
-- 👥 Leading teams and delivering projects on time
+- 🤖 Building automations with Make.com and Zapier that save hours every week
 - 📈 Driving growth through CRM, email marketing and lead generation
 - 🎓 Studying Information Technology at The Islamia University of Bahawalpur
 - 🌱 Always learning, always improving
@@ -30,9 +29,10 @@ I'm a **Project Manager & Team Lead at WebXmeta** based in Bahawalpur, Pakistan.
 
 **AI & Automation**
 
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI_Automation-2F81F7?style=for-the-badge&logo=openai&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 **CRM & Sales**
 
@@ -60,12 +60,19 @@ I'm a **Project Manager & Team Lead at WebXmeta** based in Bahawalpur, Pakistan.
 
 | Area | What I Deliver |
 |------|----------------|
-| 🤖 **AI Automation** | Workflows in Zapier and Make.com that connect apps and remove repetitive tasks |
+| 🤖 **AI Automation** | Make.com and Zapier workflows that connect apps and remove repetitive tasks |
 | 📊 **CRM Management** | Pipedrive setup, pipelines, automation, reporting and integrations |
 | 📧 **Email Marketing** | Segmented campaigns, A/B testing and performance optimization |
 | 🎯 **Lead Generation** | Targeted outreach and qualified B2B/B2C prospect pipelines |
 | 🛒 **E-Commerce Support** | Shopify and eBay product listings and store operations |
-| 👥 **Project Management** | Team leadership, planning and on-time delivery |
+| 🗂️ **Data Management** | Accurate data entry and large datasets in Excel and Google Sheets |
+
+---
+
+## ⚡ Featured Project
+
+**[Slack Attendance Tracking System](https://github.com/muhammadjawad-6/AI-automation-workflows)**
+A Make.com workflow that tracks check-ins and check-outs from Slack, flags late arrivals, sends alerts by Slack DM and Gmail, and logs every record in Google Sheets with duplicate checking.
 
 ---
 
